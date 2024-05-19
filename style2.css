@@ -1,0 +1,23 @@
+body{
+  background-image: url("https://cdna.artstation.com/p/assets/covers/images/005/295/108/large/iulian-duma-connect-4-tv-icon.jpg?1490013769");
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button{
+  margin-top: 40vh;
+  padding: 3vh;
+  border-radius: 10%;
+  border: none;
+  background-color:wheat;
+}
+a{
+  color:rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 4vh;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

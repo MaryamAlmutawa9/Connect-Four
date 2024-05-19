@@ -1,0 +1,42 @@
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.border{
+  background-color: blue;
+  width:72vh;
+  height: 60vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 1vh;
+}
+.row{
+  width: 10vh;
+  height: 10vh;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+}
+.col{
+  width: 10vh;
+  height: 10vh;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+}
+
+.player1{
+  background-color: rgb(255, 0, 0);
+  width: 10vh;
+  height: 10vh;
+  border-radius: 50%;
+  display:none;
+}
+.player2{
+  background-color: yellow;
+  width: 10vh;
+  height: 10vh;
+  border-radius: 50%;
+  display:none;
+}
